@@ -53,7 +53,8 @@ A minimal React portfolio app with:
 NAVIAGTING USING ROUTERS
 
 ![image](https://github.com/user-attachments/assets/0bcb8520-cb55-4e4c-ab98-c1aaecf122e8)
-![image](https://github.com/user-attachments/assets/d29fea47-a12f-422a-a57c-ac448aa25e70)
+![image](https://github.com/user-attachments/assets/595c2080-dc07-40f3-b9bc-2bf24855da11)
+
 ![image](https://github.com/user-attachments/assets/68587095-5186-48ae-b051-afcf6be62675)
 
 TODO LIST
